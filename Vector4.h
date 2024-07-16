@@ -1,5 +1,5 @@
 #pragma once
-#pragma once
+
 struct Vector4 {
 	float x;
 	float y;
